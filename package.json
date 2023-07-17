@@ -7,7 +7,7 @@
     "dotenv": "^8.0.0",
     "hapi": "^16.1.0",
     "joi": "^10.2.1",
-    "mysql": "^2.13.0"
+    "mysql": "^2.18.0"
   },
   "devDependencies": {}
 }
